@@ -1,0 +1,7 @@
+C:\Users\t168921\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\WindowsCertificate.exe.config
+C:\Users\t168921\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\WindowsCertificate.exe
+C:\Users\t168921\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\WindowsCertificate.pdb
+C:\Users\t168921\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\WindowsCertificate.csprojAssemblyReference.cache
+C:\Users\t168921\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\WindowsCertificate.csproj.CoreCompileInputs.cache
+C:\Users\t168921\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\WindowsCertificate.exe
+C:\Users\t168921\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\WindowsCertificate.pdb
